@@ -5,11 +5,12 @@ The project displays different types of customers using reusable React component
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://Archana-Priyadarshini16.github.io/Customer-segmentation-react/)
+(https://archana-priyadarshini16.github.io/Customer-segmentation-react/)
 
 ## 📸 Project Preview
 
-![Customer Segmentation Project](./public/screenshot.png)
+<img width="1885" height="882" alt="image" src="https://github.com/user-attachments/assets/b903b60a-7345-4e7c-9dfd-d7447132a7c0" />
+
 
 ## ✨ Features
 
