@@ -32,6 +32,8 @@ The project displays different types of customers using reusable React component
 - CSS
 
 ## 📂 Project Structure
+
+```text
 src/
 ├── components/
 │   └── Section1/
