@@ -1,16 +1,39 @@
-# React + Vite
+# Customer Segmentation React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive customer segmentation interface built using React and Tailwind CSS. 
+The project displays different types of customers using reusable React components and dynamic data.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Live Demo](https://Archana-Priyadarshini16.github.io/Customer-segmentation-react/)
 
-## React Compiler
+## 📸 Project Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Customer Segmentation Project](./public/screenshot.png)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive customer segmentation cards
+- Reusable React components
+- Dynamic customer data
+- Customer category tags
+- Different colors for each customer segment
+- Responsive UI using Tailwind CSS
+- Clean and simple design
+
+## 🛠️ Technologies Used
+
+- React.js
+- Tailwind CSS
+- JavaScript
+- Vite
+- HTML
+- CSS
+
+## 📂 Project Structure
+src/
+├── components/
+│   └── Section1/
+│       └── Section1.jsx
+├── App.jsx
+└── main.jsx
